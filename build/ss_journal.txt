@@ -1,0 +1,6 @@
+Driver={ODBC Driver 17 for SQL Server};Server=localhost;Database=AssetOsMaxTest;Trusted_Connection=yes;
+buh
+buh123
+8
+5
+0
