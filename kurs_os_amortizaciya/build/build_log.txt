@@ -1,0 +1,7 @@
+Собираю приложение...
+Собираю тесты...
+
+Готово:
+  build\osmod.exe        запуск меню
+  build\osmod.exe --demo учебный сценарий
+  build\osmod_tests.exe  проверки
